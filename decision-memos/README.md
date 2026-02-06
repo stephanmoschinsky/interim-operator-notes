@@ -10,3 +10,7 @@ They are structured to make responsibility explicit:
 
 They are not recommendations.
 They are records of accountability.
+
+All documents are anonymised and intentionally abstracted.
+They reflect decision patterns rather than specific engagements.
+
